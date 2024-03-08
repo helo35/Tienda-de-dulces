@@ -1,2 +1,2 @@
 # Tienda-de-dulces
-Vende 
+Vende-se  
